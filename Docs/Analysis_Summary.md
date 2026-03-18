@@ -119,7 +119,7 @@ Key Findings
 ## 7. Business Recommendations
 
 
-- High-value customers = top 20% driving most revenue
+#### High-value customers = top 20% driving most revenue
 Recommendation: Implement targeted retention strategies for high-value customers, such as loyalty programs, exclusive offers, and priority customer service. Even a small drop in retention within this segment could significantly impact total revenue.
 
 
