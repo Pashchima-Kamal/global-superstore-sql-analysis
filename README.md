@@ -29,33 +29,23 @@ This project analyzes global retail sales data using SQL to uncover insights on 
 
 
 ## Repository Structure
-sql/
-    01_Data_Cleaning.sql
-    02_Data_Checks.sql
-    03_Data_Exploration.sql
-    04_Analysis_Queries.sql
-    05_Customer_Segment.sql
-
-
-docs/
-    analysis_summary.md
-
-
-images/
-    Sales_Profit_Trends.png
-    Segment_AvgOrderValue.png
-    Segment_Sales.png
-    SubCategory_Sales.png
-
-
-README.md
-
-
-
-
-
-
-
+```
+global-superstore-sql-analysis/
+│
+├── sql/
+│   ├── 01_Data_Cleaning.sql
+│   ├── 02_Data_Checks.sql
+│   ├── 03_Data_Exploration.sql
+│   ├── 04_Analysis_Queries.sql
+│   └── 06_customer_segmentation.sql
+│
+├── docs/
+│   └── analysis_summary.md
+│
+├── images/
+│
+└── README.md
+```
 
 ## Key Insights
 - Sales show consistent growth with seasonal peaks
