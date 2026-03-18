@@ -96,14 +96,12 @@ Initial exploration included:
 
 Customers were segmented into three groups based on lifetime sales using NTILE():
 
-
 - High Value (Top 20%)
 - Mid Value (Next 30%)
 - Low Value (Bottom 50%)
 
 
 Key Findings
-
 
 - High-value customers contribute a large share of total sales
 - High-value customers have higher average order values
@@ -120,22 +118,22 @@ Key Findings
 
 
 #### High-value customers = top 20% driving most revenue
-Recommendation: Implement targeted retention strategies for high-value customers, such as loyalty programs, exclusive offers, and priority customer service. Even a small drop in retention within this segment could significantly impact total revenue.
+- Recommendation: Implement targeted retention strategies for high-value customers, such as loyalty programs, exclusive offers, and priority customer service. Even a small drop in retention within this segment could significantly impact total revenue.
 
 
-### Mid-value customers = growth opportunity
+#### Mid-value customers = growth opportunity
 - Recommendation: Design targeted upsell and cross-sell campaigns for mid-value customers to convert them into high-value customers. This could include personalized product recommendations and bundled offers.
 
 
-### Higher discounts = lower profit
+#### Higher discounts = lower profit
 - Recommendation: Introduce controlled discounting strategies by setting upper discount thresholds for low-margin products. Discounts should be selectively applied based on product category and customer segment rather than uniformly.
 
 
-### Shipping modes vary in usage and efficiency
+#### Shipping modes vary in usage and efficiency
 - Recommendation: Optimize shipping strategies by promoting cost-efficient shipping modes while ensuring service levels for high-value customers. Consider offering faster shipping selectively to premium customers.
 
 
-### High-value customers have higher order value
+#### High-value customers have higher order value
 - Recommendation: Increase average order value through bundling strategies, minimum order incentives, and cross-selling techniques, especially for mid-value customers.
 
 
