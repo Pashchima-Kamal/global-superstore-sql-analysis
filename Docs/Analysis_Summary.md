@@ -52,7 +52,7 @@ Initial exploration included:
 
 
 ### Sales Trends
-- Sales increased over time with noticeable seasonal spikes (Around Q4 every year)
+- Sales increased over time with noticeable seasonal spikes (around Q4 every year)
 
 
 ### Profit Trends
@@ -143,6 +143,5 @@ Key Findings
 
 
 ## 8. Conclusion
-
 
 This project demonstrates how SQL can be used to transform raw transactional data into actionable business insights, including customer segmentation and profitability analysis.
