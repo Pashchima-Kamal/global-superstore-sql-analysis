@@ -1,4 +1,4 @@
-﻿#Global Superstore SQL Analysis Summary
+﻿# Global Superstore SQL Analysis Summary
 
 
 ## 1. Objective
@@ -51,21 +51,21 @@ Initial exploration included:
 ## 5. Business Analysis
 
 
-###Sales Trends
+### Sales Trends
 - Sales increased over time with noticeable seasonal spikes (Around Q4 every year)
 
 
-###Profit Trends
+### Profit Trends
 - Profit does not always follow sales trends
 - High sales periods sometimes have lower margins
 
 
-###Customer Analysis
+### Customer Analysis
 - A small group of customers contributes a large portion of sales
 - Highest number of orders falls in the 40+ range per customer over the four-year period
 
 
-###Product Analysis
+### Product Analysis
 - Staples is the most sold product (876 units), followed by Cardinal Index Tab, Clear (337 units)
 - Technology category generates the highest sales
 - Furniture category has significantly lower profit margins compared to the other two categories
@@ -73,18 +73,18 @@ Initial exploration included:
 - Overall, the Table sub-category generates significant losses
 
 
-###Geographic Analysis
+### Geographic Analysis
 - Certain countries contribute significantly more sales than others including US, and Australia
 - Most profitable countries are US, China, and India
 - APAC market contributes the highest sales
 
 
-###Shipping Analysis
+### Shipping Analysis
 - Average shipping time is stable across orders
 - Faster shipping modes are used less frequently
 
 
-###Discount Analysis
+### Discount Analysis
 - Higher discounts are associated with lower profitability
 
 
@@ -120,8 +120,6 @@ Key Findings
 
 
 - High-value customers = top 20% driving most revenue
-
-
 Recommendation: Implement targeted retention strategies for high-value customers, such as loyalty programs, exclusive offers, and priority customer service. Even a small drop in retention within this segment could significantly impact total revenue.
 
 
@@ -142,9 +140,7 @@ Recommendation: Increase average order value through bundling strategies, minimu
 
 
 
-
 ---
-
 
 
 
