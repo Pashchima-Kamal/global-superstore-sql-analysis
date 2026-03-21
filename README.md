@@ -6,7 +6,7 @@ This project analyzes global retail sales data using SQL to uncover insights on 
 
 
 ## Dataset
-- Global Superstore dataset (Kaggle - https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data)
+- Kaggle: [Global Superstore dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset/data)
 - ~51,000 rows
 - Time period: 2011–2014
 - 1590 unique customers
